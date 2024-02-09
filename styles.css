@@ -1,0 +1,164 @@
+body {
+	background: #ddd;
+	margin: 1rem;
+	padding: 1rem;
+	max-width: 500px;
+	margin: 2rem auto;
+	font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+#sup {
+	background-image: url(https://cdna.artstation.com/p/assets/images/images/067/202/570/large/artem-chebokha-379-into1538.jpg?1694787638);
+	display: flex;
+	justify-content: left;
+	border: 1px solid gray;
+	box-shadow: 4px 4px 2px;
+}
+
+#hi {
+	font-family: oswald;
+	position: relative;
+	left: 20px;
+	color: rgb(170, 37, 14);
+}
+
+#moi {
+	font-family: rubik glitch pop;
+	position: relative;
+	top: 15px;
+	left: 170px;
+	color: rgb(214, 214, 214);
+}
+
+#the1 {
+	color: rgb(104, 104, 104);
+	font-style: italic;
+	font-family: oswald;
+	margin: 0px 0px 0px 50px;
+}
+
+
+
+#classicN {
+	background-image: url(https://cdnb.artstation.com/p/assets/images/images/067/017/127/large/artem-chebokha-369-06-red-rock-1538.jpg?1694355550);
+	font-family: "rammetto one";
+	margin: 50px 0px 0px 0px;
+	padding: 50px 0px 50px 14px ;
+	font-size: 60px;
+	color: rgb(255, 255, 255);
+}
+
+#expoZ {
+	background-image: url(https://cdnb.artstation.com/p/assets/images/images/012/292/331/large/artem-demura-evilbook-fin.jpg?1534049670);
+	font-family: "oswald";
+	font-size: 20px;
+	border: 1px solid #5e5e5e;
+	background-color: #cccccc;
+	padding: 20px 20px 10px 20px;
+	color: rgb(255, 255, 255);
+}
+
+
+#bio {
+	margin: 10px 0px 40px 0px;
+	display: flex;
+	justify-content: space-between;
+	border-bottom: 2px solid rgb(175, 35, 0);
+}
+
+#ligma {
+	font-family: "alumni sans";
+	font-size: 25px;
+}
+
+#thatshim {
+	box-shadow: 10px 5px 3px;
+}
+
+#gunZ {
+	font-family: "oswald";
+	color: rgb(24, 0, 56);
+}
+
+#bout {
+	margin: 40px 0px 10px 0px;
+	padding: 0px 0px 0px 40px;
+	font-family: "oswald";
+	color: rgb(45, 0, 128);
+	border-bottom: 2px solid rgb(45, 0, 128);
+}
+
+#skillissue {
+	font-family: "oswald";
+}
+
+#space {
+	margin: 200px;
+}
+
+#car{
+	font-family: "rammetto one";
+	color: rgb(47, 2, 129);
+	font-size: 23px;
+}
+
+.bordor {
+	background-image: url(https://cdnb.artstation.com/p/assets/images/images/045/124/909/large/artem-chebokha-beyond-the-end-of-the-world-fin.jpg?1641978122);
+	margin: 0px 0px 0px 0px;
+	width: 100%;
+	height: 30px;
+	border-radius: 5px;
+	
+}
+
+#squodd {
+	background-image: url(https://cdnb.artstation.com/p/assets/images/images/045/124/909/large/artem-chebokha-beyond-the-end-of-the-world-fin.jpg?1641978122);
+	margin: 40px 0px 30px 0px;
+	padding: 0px 100px 0px 100px;
+}
+
+#pre {
+	font-family: "rammetto one";
+	color: rgb(47, 2, 129);
+}
+
+#order {
+	font-family: "oswald";
+	font-size: 20px;
+}
+
+#bakk {
+	margin: 0px 0px 50px 0px;
+	display: flex;
+	position: relative;
+	top: 50px;
+}
